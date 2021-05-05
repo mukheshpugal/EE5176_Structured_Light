@@ -1,4 +1,5 @@
 git clone https://github.com/autonomousvision/connecting_the_dots.git
+cp infer.py connecting_the_dots/
 cd connecting_the_dots
 
 # Download dataset

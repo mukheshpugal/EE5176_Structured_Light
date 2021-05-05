@@ -3,7 +3,7 @@
 Comparing output with [state of the art deep network.](https://github.com/autonomousvision/connecting_the_dots)
 
 ## Setup
-- Run `./setup.sh` to download datasets, model weights and to download and install required packages.
+- Run `./setup.sh` to download parent repo, datasets, model weights and to download and install required packages.
 
 > Note: the script was written for AWS Ubuntu 18.04 Deep Learning AMI v43. Make suitable changes before running
 
